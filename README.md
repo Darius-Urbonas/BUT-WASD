@@ -28,6 +28,9 @@ Mounting Bracket for Accelerometer (if external):
 If you're using an external accelerometer, you may want a 3D-printed mount to hold the sensor securely at a specific angle or location on your device.
 Material: PLA or ABS is good for creating simple mounts.
 
+
+
+
 Instructions:
 
 Required Materials
